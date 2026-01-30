@@ -1,0 +1,7 @@
+{
+  "name": "CrowdSense AI",
+  "description": "A sophisticated smart city crowd monitoring dashboard with real-time analytics, risk assessment, and AI-powered safety reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
